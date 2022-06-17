@@ -19,7 +19,7 @@ const Buttons = (props) => {
     <Block  paddingHorizontal={sizes.padding}>
       <Text p semibold marginBottom={sizes.s}>
         Buttons
-      </Text>
+      </Text> 
       <Block> 
         <Button
           flex={1}

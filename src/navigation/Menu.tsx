@@ -96,6 +96,7 @@ const DrawerContent = (
     {name: t('screens.buttonExample'), to: 'ButtonExample', icon: assets.extras},
     {name: t('screens.cardExample'), to: 'CardExample', icon: assets.extras},
     {name: t('screens.inputExample'), to: 'InputExample', icon: assets.extras},
+    {name: t('screens.shopping'), to: 'Shopping', icon: assets.extras},
   ]; 
 
   return (

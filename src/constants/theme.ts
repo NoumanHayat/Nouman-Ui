@@ -85,6 +85,7 @@ export const ASSETS: ThemeAssets = {
   android: require('../assets/images/android.png'),
 
   // cards
+  
   card1: require('../assets/images/card1.png'),
   card2: require('../assets/images/card2.png'),
   card3: require('../assets/images/card3.png'),
@@ -110,7 +111,11 @@ export const ASSETS: ThemeAssets = {
   tesla: require('../assets/images/tesla.png'),
   //creater Photo
   creater: require('../assets/images/creater.jpg'),
-};
+
+  // shopping cart
+  shoppingItem1: require('../assets/images/shopping/item1.png'),
+  shoppingItem2: require('../assets/images/shopping/item2.png'),
+}; 
  
 export const FONTS: ThemeFonts = {
   // based on font size
@@ -119,7 +124,7 @@ export const FONTS: ThemeFonts = {
   h2: 'OpenSans-Bold',
   h3: 'OpenSans-Bold',
   h4: 'OpenSans-Bold',
-  h5: 'OpenSans-SemiBold',
+  h5: 'OpenSans-SemiBold', 
   p: 'OpenSans-Regular',
 
   // based on fontWeight

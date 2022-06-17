@@ -291,6 +291,11 @@ export interface ThemeAssets {
   android: ImageSourcePropType;
 
   creater: ImageSourcePropType;
+
+
+  //shopping
+  shoppingItem1: ImageSourcePropType;
+  shoppingItem2: ImageSourcePropType;
 }
 
 export interface ThemeFonts {
